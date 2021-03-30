@@ -1,12 +1,12 @@
 # ProyectoFinal
 
-##########**Ingeniería de Sistemas**
+##**Ingeniería de Sistemas**
 
 **Web Development**
 
 **Proyecto Final - Entrega 1**
 
-***Sergio Daniel Gomez Avelino***
+######***Sergio Daniel Gomez Avelino***
 
 ***Juan Pablo Romero Amado***
 
