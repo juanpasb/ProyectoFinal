@@ -2,13 +2,13 @@
 
 ## **Ingeniería de Sistemas**
 
-## **Web Development**
+ **Web Development**
 
-## **Proyecto Final - Entrega 1**
+ **Proyecto Final - Entrega 1** ##
 
 ###### ***Sergio Daniel Gomez Avelino***
 
-###### ***Juan Pablo Romero Amado***
+***Juan Pablo Romero Amado*** ###### 
 
 **Usuarios debe soportar la aplicación**
 
