@@ -50,5 +50,9 @@
 
 -El sistema deberá permitir ver información agregada y detallada de los casos almacenados, solamente a funcionarios de la alcaldía permitiendo filtrado.
 
+-Mockups
+
 ![Mockups](https://user-images.githubusercontent.com/71273579/113068924-e9d9ae80-9184-11eb-9aac-f585c20377e1.jpg)
 
+-Diagrama
+![Diagramas](https://user-images.githubusercontent.com/71273579/113069182-65d3f680-9185-11eb-9ec4-2f68125a99ec.jpg)
