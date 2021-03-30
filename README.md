@@ -4,7 +4,7 @@ Ingeniería de Sistemas
 Web Development
 Proyecto Final - Entrega 1
 Sergio Daniel Gomez Avelino
-Juan Pablo Romero Amado
+Juan Pablo Romero Amado/n
 
 Usuarios debe soportar la aplicación
 Funcionarios de la alcaldía
